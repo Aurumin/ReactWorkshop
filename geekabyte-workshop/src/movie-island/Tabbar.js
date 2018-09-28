@@ -1,6 +1,6 @@
 import React, { Component } from "react"
 
-// TabBar component renders Types of list to be rendered,
+// TabBar component renders Types of list to be rendered
 // Whether list if for now showing or top rated movies
 class TabBar extends Component {
 	constructor(props) {
